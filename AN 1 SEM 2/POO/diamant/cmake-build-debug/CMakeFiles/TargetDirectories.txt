@@ -1,3 +1,0 @@
-C:/Users/Lenovo/Desktop/diamant/cmake-build-debug/CMakeFiles/diamant.dir
-C:/Users/Lenovo/Desktop/diamant/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Lenovo/Desktop/diamant/cmake-build-debug/CMakeFiles/rebuild_cache.dir
