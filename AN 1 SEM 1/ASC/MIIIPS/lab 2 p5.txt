@@ -1,0 +1,40 @@
+.data
+v: .word 1, 2, 3, 4
+    .word 5, 6, 7, 8
+n: .word 2
+m: .word 4
+sp: .asciiz " "
+ent: .asciiz "\n"
+.text
+main :
+	lw $t0,n
+	lw $t1,m
+	li $t2,0
+	li $t3,0
+
+	
+loop: bge $t2,$t0,exit
+	li $t4,0
+	
+	loop1: bge $t4,$t1,exit1
+		
+		lw $a0,v($t3)
+		li $v0,1
+		syscall
+		la $a0,sp
+		li $v0,4
+		syscall
+		addi $t4,1
+		addi $t3,4
+		j loop1
+	exit1:
+		la $a0,ent
+		li $v0,4
+		syscall
+		addi $t2,1
+		addi $t3,4
+		j loop
+exit:
+	li $v0,10
+	syscall
+

@@ -1,0 +1,79 @@
+.data 
+n: .space 4
+v: .space 400
+sp: .asciiz " "
+.text
+main:
+	li $v0, 5
+	syscall
+	move $t0, $v0
+	
+	li $t1,0
+	li $t2,0
+	li $t5,0
+	
+citire_vector:
+	bge $t1, $t0, exit1
+	li $v0, 5
+	syscall
+	sw $v0, v($t2)
+	addi $t1,1
+	addi $t2,4
+j citire_vector
+exit1:
+	li $t1,0
+	li $t2,0
+
+afisare_val:
+	bge $t1, $t0, exit2
+	lw $t3,v($t2)
+	
+	bgt $t3,$t5,max
+        
+cont1: addi $t1,1
+	addi $t2,4
+
+	
+j afisare_val
+max:
+	move $t5,$t3
+        j cont1
+	
+exit2:
+	move $a0,$t5
+	li $v0,1
+	syscall	
+	li $t1,0
+	li $t2,0
+	la $a0,sp
+	li $v0,4
+	syscall
+
+afisare_poz:
+	bge $t1, $t0, exit3
+	lw $t3,v($t2)
+	
+	beq $t3,$t5,afisare
+        
+        
+	
+cont2: addi $t1,1
+	addi $t2,4
+
+	
+j afisare_poz
+afisare:
+	move $a0,$t1
+	li $v0,1
+	syscall
+	la $a0,sp
+	li $v0,4
+	syscall
+        
+	
+	
+j cont2
+
+exit3:
+	li $v0,10
+	syscall
