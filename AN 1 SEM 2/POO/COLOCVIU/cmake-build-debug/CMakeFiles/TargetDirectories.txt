@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/colocviu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Lenovo/Desktop/colocviu/cmake-build-debug/CMakeFiles/colocviu.dir
+C:/Users/Lenovo/Desktop/colocviu/cmake-build-debug/CMakeFiles/edit_cache.dir

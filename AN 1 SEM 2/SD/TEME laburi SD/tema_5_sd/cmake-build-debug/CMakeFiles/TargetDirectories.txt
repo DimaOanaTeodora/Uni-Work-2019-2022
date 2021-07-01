@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/tema_5_sd/cmake-build-debug/CMakeFiles/tema_5_sd.dir
+C:/Users/Lenovo/Desktop/tema_5_sd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/tema_5_sd/cmake-build-debug/CMakeFiles/rebuild_cache.dir

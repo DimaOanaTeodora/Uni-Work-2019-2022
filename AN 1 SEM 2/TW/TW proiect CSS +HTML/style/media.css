@@ -1,0 +1,190 @@
+/* --------------------------------------media ecran mare----------------------------*/
+
+@media only screen and (min-width: 1200px) 
+{
+ 
+	html
+			{ 
+				font-size:30px;
+			}
+  
+}
+
+/*---------------------------media pt tableta----------------------------------------*/
+
+@media only screen and (min-width: 767px) and (max-width: 1200px)
+{
+	html
+			{ 
+				font-size:27px;
+			}
+			
+	#site_content
+					{	
+						width: 83vw;
+						overflow: hidden;
+						background: white;
+					}
+	#footer
+			{ 
+				width: 82vw;
+				height: 3vh;
+			}
+		 
+	#logo
+			{ 
+				width: 83vw;
+				background: url('logo.jpg') no-repeat;
+				
+			}
+			
+	 
+	.sidebar
+				{ 	
+					float: right;
+					width: 23vw;
+					padding: 4% 2% 2% 0;
+				}
+	#content
+				{ 
+					text-align: left;
+					width: 50vw;
+					float: left;
+					padding: 4% 0 3% 4%;
+				 }
+	/* pentru meniuu---*/
+	nav
+			{
+				width:87.3vw;			
+				height: 3.5vh;
+				
+			
+			}
+	ul.menu>li, ul.menu>li>ul.submenu>li
+										{
+									
+											font-size:0.9em;	
+											padding: 0 0 0 0;
+											height: 3.5vh;
+										
+										}
+
+	/* imaginea logo ------------------------------------------------------*/
+	.imgl
+			{
+				width: 50%; 
+				padding: 2% 0 0 21%; 
+			}
+	/*animatii---------------------------------------*/
+	.facebook
+					{
+					
+						 width: 170%; 
+						 padding: 2% 0 0 15%; 
+					}
+	/*imaginile din coloana dreapta */
+	#site_content .imgd
+						{
+							width:  250%; 
+							height:  230%;
+						}
+	/*search bar*/
+	.searchbar input[type=text] 
+								{
+									float: none;
+								
+									font-size: 0.5em;
+									padding: 3%;
+								}	
+}
+
+/*--------------------------------------media pt telefon--------------------------------*/
+
+@media only screen and (max-width: 766px) 
+{
+	html
+		{ 
+
+			font-size:13px;
+		}
+	#site_content
+					{	
+						width: 83vw;
+						overflow: hidden;
+						background: white;
+					}
+	#footer
+				{ 
+					width: 82vw;
+					height: 3vh;
+				}
+
+	#logo
+				{ 
+					width: 83vw;
+					background: url('logo.jpg') no-repeat;
+					
+				}
+	
+
+	.sidebar
+				{ 	
+					float: right;
+					width: 23vw;
+					padding: 4% 2% 2% 0;
+				}
+	#content
+				{ 
+					text-align: left;
+					width: 50vw;
+					float: left;
+					padding: 4% 0 3% 4%;
+				}
+	/*imaginile din coloana dreapta */
+	#site_content .imgd
+							{
+								width:  250%; 
+								height:  230%;
+							}
+	/* pentru meniu--------------------------------*/
+	
+	nav
+			{
+				width:87.5vw;	
+				height: 2vh;
+				
+			}
+	ul.menu>li, ul.menu>li>ul.submenu>li
+										{
+									
+											font-size:0.8em;
+											height:2vh;
+											padding: 0 0 0 0;
+											
+										
+										}
+	/* imaginea logo ------------------------------------------------------*/
+	.imgl
+			{
+				width: 50%; 
+				padding: 2% 0 0 22%; 
+			}
+	/*animatii---------------------------------------*/
+	.facebook
+					{
+					
+						 width: 170%; 
+						 padding: 2% 0 0 15%; 
+					}
+	.divgif
+			{
+				padding: 0 0 0 7%;
+			}
+	.gif
+			{
+				width: 90%;
+				height: 170%;
+			}
+	
+}
+

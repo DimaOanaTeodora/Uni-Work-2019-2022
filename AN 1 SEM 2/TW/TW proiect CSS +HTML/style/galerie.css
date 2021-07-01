@@ -1,0 +1,231 @@
+/*-----------------galerie de pe paginile secundare -fara animatie-----------------*/
+
+.row
+		{
+			
+			box-sizing: border-box;
+			display: flex;
+			flex-wrap: wrap;
+			padding: 0 4px ;
+		}
+
+/* coloane egale unele langa altele  */
+.column 
+		{
+			box-sizing: border-box;
+			flex: 25%;
+			max-width: 25%;
+			padding: 0 4px;
+		}
+
+column img 
+			{
+			  margin-top: 8px ;
+			  vertical-align: middle;
+			  width: 100%;
+			}
+
+/* din 2 coloane face 1*/
+@media screen and (max-width: 800px) 
+{
+		.column
+				{
+					
+					box-sizing: border-box;
+					flex: 50%;
+					max-width: 50%;
+				}
+}
+
+/* o singura coloana*/
+@media screen and (max-width: 600px)
+{
+  .column 
+		  {
+				box-sizing: border-box;
+				flex: 100%;
+				max-width: 100%;
+		  }
+}
+
+/*------------------------------------------galerie pagina principala---------------------------------*/
+
+.galerie 
+			{
+				max-width: 500px;
+				margin: auto;
+				box-sizing: border-box;
+			  
+			}
+
+
+
+.rand 
+		{
+		  margin: 0 0 0 -10px;
+		   box-sizing: border-box;
+		}
+
+/* spatiu intre coloane */
+.rand,
+.rand > .coloana 
+					{
+					  padding: 5px;
+					   box-sizing: border-box;
+					}
+
+/* mai multe coloane */
+.coloana
+			{
+			  float: left;
+			  width: 50%;
+			   box-sizing: border-box;
+			}
+
+.rand:after 
+				{
+					content: "";
+					display: table;
+					clear: both;
+					box-sizing: border-box;
+				}
+
+
+.content 
+			{
+			  background-color: #ff3377;
+			  padding: 10px;
+			  color: #ffe6ee ;
+			   
+			}
+.content h3
+			{
+				text-shadow: 1px 1px 4px pink;
+				color: white;
+				font-family: 'Pacifico', cursive ;
+				font-size: 1.3em;
+			}
+
+
+/* face o singura coloana */
+@media screen and (max-width: 600px) 
+{
+		  .coloana 
+					  {
+						width: 100%;
+					  }
+		  .rand 
+				  {
+				  margin: 0 0 0 0;
+				   
+				  }
+}
+/*--------------------------------------galerie side-bar pagina cont cu bordura ascunsa----------------------------*/
+
+div.gallery
+				{
+				  margin: 5px;
+				  border: 2px solid #990030;
+				  width: 90%;
+				  height: 100%;
+				}
+
+div.gallery:hover 
+					{
+					  border: 4px solid grey;
+					}
+
+div.gallery img 
+				{
+				  
+					width:  100% !important; 
+					height:  40% !important;
+				}
+
+div.desc 
+			{
+			  padding: 6%;
+			  background-color: #ffe6ee;
+			  color: #990030;
+			  text-align: center;
+			}
+
+/*------------------------------------------galerie animata pagina index------------------------------*/
+.gal
+		{
+			width:25vw;
+			height:18vw;
+			border:3px solid pink;
+			position:relative;
+			overflow:hidden;
+
+			margin-left:3rem;
+		}
+.gal figcaption
+				{
+					position:absolute;
+					bottom:0;
+					background:pink;
+					width:100%;
+					text-align:center;
+				}
+.gal figure
+			{
+				position:relative;
+				width:25vw;
+				height:18vw;
+			}
+.gal img
+			{
+				width: 100%;
+				height: 100%;
+			}
+
+#galerie_exemplu figure
+						{	
+							position:absolute;
+							left:0;
+							top:0;
+							animation-name:gal_exemplu;
+							animation-timing-function:linear;
+							animation-iteration-count:infinite;
+							animation-duration:21s;	
+							transform:scale(1,1);
+							transform-origin:0px center;
+						}
+#galerie_exemplu figure:nth-of-type(7){
+	animation-delay:0s;
+}
+#galerie_exemplu figure:nth-of-type(6){
+	animation-delay:3s;
+}
+#galerie_exemplu figure:nth-of-type(5){
+	animation-delay:6s;
+}
+#galerie_exemplu figure:nth-of-type(4){
+	animation-delay:9s;
+}
+#galerie_exemplu figure:nth-of-type(3){
+	animation-delay:12s;
+}
+#galerie_exemplu figure:nth-of-type(2){
+	animation-delay:15s;
+}
+#galerie_exemplu figure:nth-of-type(1){
+	animation-delay:18s;
+}
+
+
+@keyframes gal_exemplu
+						{ 
+							0% {z-index:10;opacity:1;} /*perioada 0-5% in care se afiseaza fara efect */
+							5% {opacity:1;transform: translate(0px, 0px);}
+							13%{opacity:1;transform:translate(25vw, 18vw)} /* de  aici doresc sa descresc si opacitatea;*/
+							14.28%{z-index:10;opacity:0;}
+							14.281%{z-index:-1;}/* il ascund cat mai in spate sa nu vina peste imaginile care erau mai sus in html decat el*/
+							85.71999999%{opacity:1;transform:translate(0px, 0px);z-index:-1;}	
+							85.72%{z-index:0;}/*setez z-index la 0 ca sa revina la ordinea normala de afisare*/
+							100%{opacity:1;z-index:0;}
+						}
+
+

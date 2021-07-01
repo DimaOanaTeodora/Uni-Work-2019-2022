@@ -1,0 +1,69 @@
+	nav
+			{
+				width:61vw;	
+				height: 5vh;
+				
+			}
+	
+	ul.menu>li, ul.menu>li>ul.submenu>li
+											{
+												display:block;
+												font-size:1em;
+												font-weight:bold;
+												height:5vh;
+												line-height:150%;
+												text-align:center;		
+												list-style-type:none;
+												overflow:hidden;
+												margin: 0 1% 0 0 ;
+												box-sizing: border-box;
+												
+												
+											}
+	ul.menu>li:last-of-type
+								{
+									margin: 0 0 0 0 ;
+								}
+			
+			
+	ul.menu>li
+				{
+					float:left;
+					width:23.03%;
+					background:pink;
+					transition: background 3s linear;
+				}
+	ul.submenu>li
+					{
+						width:100%;
+						background: pink;
+					}
+	/*pt tranzitie*/
+	
+	ul.menu>li:hover
+					{
+						background:#e6004c;
+					}
+
+	ul.menu>li>a,ul.submenu>li>a
+								{
+									display:block;
+									height:	100%;
+									text-decoration:none;
+									color:white;
+								}
+	ul.menu>li>ul.submenu
+							{
+								position:relative;
+								top:0px;
+							}
+	
+	ul.menu>li>a:hover, ul.submenu>li>a:hover
+												{
+													background:#e6004c;
+												}
+	ul.menu>li:hover
+						{
+							overflow:visible;
+						}
+		
