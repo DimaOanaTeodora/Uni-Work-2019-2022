@@ -1,0 +1,6 @@
+5 5
+R XX
+X X X
+X XXX
+X X X
+X J X
