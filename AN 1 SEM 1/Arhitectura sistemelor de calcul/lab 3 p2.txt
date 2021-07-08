@@ -1,0 +1,33 @@
+.data
+str: .space 100
+sp: .asciiz " "
+.text
+main:
+la $a0,str
+li $a1,99
+li $v0,8
+syscall
+
+
+li $t0,0
+lb $t1,str($t0)
+loop: beqz $t1, exit
+	rem $t2,$t0,2
+	beq $t2,0,afisare
+continue :
+	addi $t0,1
+	lb $t1,str($t0)
+	j loop
+afisare:
+	lb $a0,str($t0)
+	li $v0,11
+	syscall
+	
+	la $a0,sp
+	li $v0,4
+	syscall
+	
+	j continue
+exit:
+	li $v0,10
+	syscall
