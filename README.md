@@ -28,11 +28,11 @@ Universitatea din Bucuresti
   - [Probabilitati si statistica (R)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%202%20SEM%201/Probabilitati%20si%20statistica)
   - [Programare functionala (Haskell)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%202%20SEM%201/Programare%20functionala)
 * SEMESTRUL 2
-  - Inteligenta artificiala (Python)
-  - Programare avansata pe obiecte (Java)
+  - [Inteligenta artificiala (Python)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%202%20SEM%202/Inteligenta%20artificiala)
+  - [Programare avansata pe obiecte (Java)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%202%20SEM%202/Programare%20avansata%20pe%20obiecte)
   - Metode de dezvoltare software
-  - Fundamentele limbajelor de programare (Haskell, Prolog)
-  - Algoritmi Avansati (C++/Python)
+  - [Fundamentele limbajelor de programare (Haskell, Prolog)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%202%20SEM%202/Fundamentele%20limbajelor%20de%20programare)
+  - [Algoritmi Avansati (C++/Python)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%202%20SEM%202/Algoritmi%20avansati)
   - Retele de calculatoare
 #### III. ANUL 3
 * SEMESTRUL 1
