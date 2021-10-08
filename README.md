@@ -36,4 +36,10 @@ Universitatea din București
   - Rețele de calculatoare
 #### III. ANUL 3
 * SEMESTRUL 1
+  - [Calculabilitate și complexitate]()
+  - [Securitatea Sistemelor Informatice]()
+  - [Ingineria Programării]()
+  - [Computer Vision]()
+  - [Robotic Process Automation]()
+  - [Introducere în Roobotică]()
 * SEMESTRUL 2
