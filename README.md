@@ -44,3 +44,8 @@ Universitatea din București
   - [Robotic Process Automation]()
   - [Introducere în Roobotică]()
 * SEMESTRUL 2
+  - [Programarea dispozitivelor mobile în Android]()
+  - [Strategii de planificare a unei echipe de roboți (SPER)]()
+  - [Blockchain]()
+  - [Testarea Sistemelor Software]()
+
