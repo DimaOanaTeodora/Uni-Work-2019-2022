@@ -37,12 +37,12 @@ Universitatea din București
   - Rețele de calculatoare
 #### III. ANUL 3
 * SEMESTRUL 1
-  - [Calculabilitate și complexitate]()
-  - [Securitatea Sistemelor Informatice]()
-  - [Ingineria Programării]()
-  - [Computer Vision]()
-  - [Robotic Process Automation]()
-  - [Introducere în Roobotică]()
+  - [Calculabilitate și complexitate](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%201/Calculabilitate%20%C8%99i%20Complexitate)
+  - [Securitatea Sistemelor Informatice](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%201/Securitatea%20Sistemelor%20Informatice)
+  - [Ingineria Programării](https://github.com/daria68/Smart-Coffe-Machine/tree/main)
+  - [Computer Vision](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%201/Computer%20Vision)
+  - [Robotic Process Automation](https://github.com/DimaOanaTeodora/RPA-project)
+  - [Introducere în Roobotică](https://github.com/DimaOanaTeodora/IntroductionToRobotics)
 * SEMESTRUL 2
   - [Programarea dispozitivelor mobile în Android]()
   - [Strategii de planificare a unei echipe de roboți (SPER)]()
