@@ -39,7 +39,7 @@ Universitatea din București
 * SEMESTRUL 1
   - [Calculabilitate și complexitate](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%201/Calculabilitate%20%C8%99i%20Complexitate)
   - [Securitatea Sistemelor Informatice](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%201/Securitatea%20Sistemelor%20Informatice)
-  - [Ingineria Programării(Spring Boot Tools](https://github.com/daria68/Smart-Coffe-Machine/tree/main)
+  - [Ingineria Programării(Spring Boot Tools)](https://github.com/daria68/Smart-Coffe-Machine/tree/main)
   - Computer Vision
       - [Project 1](https://github.com/DimaOanaTeodora/Computer-Vision-Sudoku-Project)
       - [Project 2](https://github.com/DimaOanaTeodora/Computer-Vision-Simpsons-Detection)
