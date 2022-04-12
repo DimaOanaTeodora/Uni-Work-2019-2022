@@ -46,7 +46,7 @@ Universitatea din București
   - [Robotic Process Automation (UiPath platform)](https://github.com/DimaOanaTeodora/RPA-project)
   - [Introducere în Roobotică (Arduino UNO)](https://github.com/DimaOanaTeodora/IntroductionToRobotics)
 * SEMESTRUL 2
-  - [Programarea dispozitivelor mobile în Android]()
+  - Programarea dispozitivelor mobile în Android
   - [Strategii de planificare a unei echipe de roboți]()
   - [Blockchain]()
   - [Testarea Sistemelor Software]()
