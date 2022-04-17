@@ -1,5 +1,5 @@
 # FMI 2019-2022
-## Materiale de studiu din cadrul domeniului Informatică(programa actualizată începând cu bobocii anului 2019) 
+## :books: Materiale de studiu din cadrul domeniului Informatică(programa actualizată începând cu bobocii anului 2019) 
 
 ### Repo dedicat studenților Facultății de Matematică și Informatică, Universitatea din București 
 
