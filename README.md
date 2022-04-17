@@ -47,10 +47,9 @@
   - [Robotic Process Automation (UiPath platform)](https://github.com/DimaOanaTeodora/RPA-project)
   - [Introducere în Roobotică (Arduino UNO)](https://github.com/DimaOanaTeodora/IntroductionToRobotics)
 * SEMESTRUL 2
-  - [Programarea dispozitivelor mobile în Android (Kotlin)]()
+  - [Programarea dispozitivelor mobile în Android (Kotlin)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/Android)
       - [Proiect - Kotlin basics](https://github.com/DimaOanaTeodora/android-basics)  
-  - [Strategii de planificare a unei echipe de roboți (Python)]()
-  - [Blockchain (JavaScript/Solidity)]()
-  - [Testarea Sistemelor Software (Python - Pytest)]()
-      - [Proiect - Testare platformă de socializare](https://github.com/radunegulescu/Micro-Web-Social-Platform) 
+  - [Strategii de planificare a unei echipe de roboți (Python)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/SPER)
+  - [Blockchain (JavaScript/Solidity)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/Blockchain)
+  - [Testarea Sistemelor Software (Python - Pytest)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/TSS)
 
