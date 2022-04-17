@@ -41,7 +41,7 @@
   - [Calculabilitate și complexitate](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%201/Calculabilitate%20%C8%99i%20Complexitate)
   - [Securitatea Sistemelor Informatice](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%201/Securitatea%20Sistemelor%20Informatice)
   - [Ingineria Programării (Spring Boot Tools)](https://github.com/daria68/Smart-Coffe-Machine/tree/main)
-  - Computer Vision
+  - Computer Vision (Python)
       - [Tema 1 - Extragerea tablei de Sudoku](https://github.com/DimaOanaTeodora/Computer-Vision-Sudoku-Project)
       - [Tema 2 - Recunoastere faciala a personajelor din The Simpsons](https://github.com/DimaOanaTeodora/Computer-Vision-Simpsons-Detection)
   - [Robotic Process Automation (UiPath platform)](https://github.com/DimaOanaTeodora/RPA-project)
