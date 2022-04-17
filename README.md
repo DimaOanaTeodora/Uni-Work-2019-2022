@@ -1,8 +1,7 @@
 # FMI 2019-2022
+## Materiale de studiu din cadrul domeniului Informatică(programa actualizată începând cu bobocii anului 2019) 
 
-### Materiale de studiu din cadrul domeniului Informatică al Facultății de Matematică și Informatică
-
-Universitatea din București
+### Repo dedicat studenților Facultății de Matematică și Informatică, Universitatea din București 
 
 :peacock: [Repo Tutoriat POO 20222](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022)
 
