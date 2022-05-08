@@ -15,7 +15,7 @@
   - Gândire critică și etică academică în informatică
 * SEMESTRUL 2
   - [Programare orientată pe obiecte (C++)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%201%20SEM%202/Programare%20orientata%20pe%20obiecte)
-  - [Tutoriate POO C++ editia 2020](https://drive.google.com/drive/folders/1dqNmMF5ixyYOXzKEiHYyAHJJMGpSscFp?fbclid=IwAR1RmY6y0ZVHEzj-5tQJlwj-0O4FrP-G-XGRXNw84bIVD9t7fHYezj7yw-4)
+  - [Tutoriat POO C++ editia 2020](https://drive.google.com/drive/folders/1dqNmMF5ixyYOXzKEiHYyAHJJMGpSscFp?fbclid=IwAR1RmY6y0ZVHEzj-5tQJlwj-0O4FrP-G-XGRXNw84bIVD9t7fHYezj7yw-4)
   - [Limbaje formale și automate (C++/Python)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%201%20SEM%202/Limbaje%20formale%20si%20automate)
   - [Structuri de date (C++)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%201%20SEM%202/Structuri%20de%20date)
   - [Baze de date (SQL)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%201%20SEM%202/Baze%20de%20date)
