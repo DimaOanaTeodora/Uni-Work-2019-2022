@@ -3,7 +3,7 @@
 
 ### Repo dedicat studenților Facultății de Matematică și Informatică, Universitatea din București 
 
-:peacock: [Repo Tutoriat POO 20222](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022)
+:peacock: [Repo Tutoriat POO 2022](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022)
 
 #### I. ANUL 1
 * SEMESTRUL 1
