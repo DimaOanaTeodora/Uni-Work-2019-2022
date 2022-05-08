@@ -15,7 +15,6 @@
   - Gândire critică și etică academică în informatică
 * SEMESTRUL 2
   - [Programare orientată pe obiecte (C++)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%201%20SEM%202/Programare%20orientata%20pe%20obiecte)
-  - [Tutoriat POO editia 2020 (C++)](https://drive.google.com/drive/folders/1dqNmMF5ixyYOXzKEiHYyAHJJMGpSscFp?fbclid=IwAR1RmY6y0ZVHEzj-5tQJlwj-0O4FrP-G-XGRXNw84bIVD9t7fHYezj7yw-4)
   - [Limbaje formale și automate (C++/Python)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%201%20SEM%202/Limbaje%20formale%20si%20automate)
   - [Structuri de date (C++)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%201%20SEM%202/Structuri%20de%20date)
   - [Baze de date (SQL)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%201%20SEM%202/Baze%20de%20date)
@@ -32,24 +31,21 @@
 * SEMESTRUL 2
   - [Inteligență artificială (Python)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%202%20SEM%202/Inteligenta%20artificiala)
   - [Programare avansată pe obiecte (Java)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%202%20SEM%202/Programare%20avansata%20pe%20obiecte)
-  - Metode de dezvoltare software
+  - Metode de dezvoltare software (orice proiect la alegere)
   - [Fundamentele limbajelor de programare (Haskell, Prolog)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%202%20SEM%202/Fundamentele%20limbajelor%20de%20programare)
   - [Algoritmi Avansați (C++/Python)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%202%20SEM%202/Algoritmi%20avansati)
-  - Rețele de calculatoare
+  - Rețele de calculatoare (Cisco Packet Tracer)
 #### III. ANUL 3
 * SEMESTRUL 1
   - [Calculabilitate și complexitate](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%201/Calculabilitate%20%C8%99i%20Complexitate)
   - [Securitatea Sistemelor Informatice](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%201/Securitatea%20Sistemelor%20Informatice)
-  - [Ingineria Programării (Spring Boot Tools)](https://github.com/daria68/Smart-Coffe-Machine/tree/main)
-  - Computer Vision (Python)
-      - [Tema 1 - Extragerea tablei de Sudoku](https://github.com/DimaOanaTeodora/Computer-Vision-Sudoku-Project)
-      - [Tema 2 - Recunoastere faciala a personajelor din The Simpsons](https://github.com/DimaOanaTeodora/Computer-Vision-Simpsons-Detection)
-  - [Robotic Process Automation (UiPath platform)](https://github.com/DimaOanaTeodora/RPA-project)
-  - [Introducere în Roobotică (Arduino UNO)](https://github.com/DimaOanaTeodora/IntroductionToRobotics)
+  - Ingineria Programării (Spring Boot Tools)
+  - Opțional: Computer Vision (Python)
+  - Opțional: Robotic Process Automation (UiPath platform)
+  - [Opțional: Introducere în Roobotică (Arduino UNO)](https://github.com/DimaOanaTeodora/IntroductionToRobotics)
 * SEMESTRUL 2
-  - [Programarea dispozitivelor mobile în Android (Kotlin)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/Android)
-      - [Proiect - Kotlin basics](https://github.com/DimaOanaTeodora/android-basics)  
-  - [Strategii de planificare a unei echipe de roboți (Python)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/SPER)
-  - [Blockchain (JavaScript/Solidity)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/Blockchain)
-  - [Testarea Sistemelor Software (Python - Pytest)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/TSS)
+  - [Opțional: Programarea dispozitivelor mobile în Android (Kotlin)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/Android)  
+  - [Opțional: Strategii de planificare a unei echipe de roboți (Python)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/SPER)
+  - [Opțional: Blockchain (JavaScript/Solidity)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/Blockchain)
+  - [Opțional: Testarea Sistemelor Software (Python - Pytest)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/TSS)
 
