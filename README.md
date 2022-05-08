@@ -47,5 +47,5 @@
   - [Opțional: Programarea dispozitivelor mobile în Android (Kotlin)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/Android)  
   - [Opțional: Strategii de planificare a unei echipe de roboți (Python)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/SPER)
   - [Opțional: Blockchain (JavaScript/Solidity)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/Blockchain)
-  - [Opțional: Testarea Sistemelor Software (Python - Pytest)](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/TSS)
+  - [Opțional: Testarea Sistemelor Software](https://github.com/DimaOanaTeodora/Uni-Work/tree/main/AN%203%20SEM%202/TSS)
 
