@@ -1,7 +1,8 @@
 # FMI 2019-2022
 ## :books: Materiale de studiu din cadrul domeniului Informatică(programa actualizată începând cu bobocii anului 2019) 
 
-### Repo dedicat studenților Facultății de Matematică și Informatică, Universitatea din București - program de studiu: licență Informatică 
+### Repo dedicat studenților Facultății de Matematică și Informatică, Universitatea din București 
+*Program de studiu: licență Informatică* 
 
 :peacock: [Repo Tutoriat POO 2022](https://github.com/DimaOanaTeodora/Tutoriat-POO-2022)
 
